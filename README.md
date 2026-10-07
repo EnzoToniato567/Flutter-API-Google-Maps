@@ -8,7 +8,7 @@ Aplicativo Flutter que exibe um mapa do Google Maps através do método http, pa
 
 ## APK 
 
-[Flutter Maps](/flutter_maps/assets/flutter_api_google_maps.apk)
+[Flutter Maps](/flutter_api_google_maps/assets/flutter_api_google_maps.apk)
 
 ## Como executar
 
